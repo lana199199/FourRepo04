@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS,Chrome 103.0.5060.134,,,2022-07-22 13:48:51,2022-07-22 13:48:55,4.601s,PASSED
+,,,,,,,
+Test Cases/TC,Chrome 103.0.5060.134,,,2022-07-22 13:48:51,2022-07-22 13:48:55,4.322s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-22 13:48:51,2022-07-22 13:48:54,2.918s,PASSED
+"navigateToUrl(""https://google.com"")",Chrome 103.0.5060.134,,,2022-07-22 13:48:54,2022-07-22 13:48:55,1.077s,PASSED

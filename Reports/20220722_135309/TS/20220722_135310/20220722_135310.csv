@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS,Chrome 103.0.5060.134,,,2022-07-22 13:53:18,2022-07-22 13:53:27,8.389s,PASSED
+,,,,,,,
+Test Cases/TC,Chrome 103.0.5060.134,,,2022-07-22 13:53:18,2022-07-22 13:53:24,5.057s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-22 13:53:19,2022-07-22 13:53:21,2.670s,PASSED
+"navigateToUrl(""https://google.com"")",Chrome 103.0.5060.134,,,2022-07-22 13:53:21,2022-07-22 13:53:24,2.108s,PASSED
+,,,,,,,
+Test Cases/TC,Chrome 103.0.5060.134,,,2022-07-22 13:53:24,2022-07-22 13:53:27,3.098s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-22 13:53:24,2022-07-22 13:53:25,1.957s,PASSED
+"navigateToUrl(""https://google.com"")",Chrome 103.0.5060.134,,,2022-07-22 13:53:25,2022-07-22 13:53:27,1.132s,PASSED
